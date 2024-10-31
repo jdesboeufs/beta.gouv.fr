@@ -13,11 +13,13 @@ missions:
     status: service
     employer: Octo
   - start: 2015-09-18
-    end: 2024-12-31
+    end: 2025-03-31
     status: service
     employer: Living Data
 startups:
   - pcrs
+  - prelevements.deau
+  - maestro
 previously:
   - ban
   - api-geo
