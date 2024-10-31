@@ -3,14 +3,16 @@ domaine: Développement
 github: tmerlier
 missions:
   - start: 2016-06-20
-    end: 2023-04-30
-    status: independent
+    end: 2025-03-31
+    status: service
     employer: Living Data
 previously:
   - datapass
   - geo.data.gouv.fr
   - api-geo
   - ban
+startups:
+  - prelevements.deau
 competences:
   - UX
   - Développement Frontend
