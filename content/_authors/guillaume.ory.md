@@ -8,8 +8,8 @@ missions:
     end: 2025-03-31
     status: independent
     employer: Living Data
-    startups:
-      - pcrs
+startups:
+  - pcrs
 previously:
   - ban
 ---
